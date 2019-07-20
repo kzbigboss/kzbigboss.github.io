@@ -3,8 +3,6 @@ layout: post
 title: Why so quite? A health update.
 ---
 
-# Why so quiet? A health update.
-
 I have not been too active on social media or github for a few months now.  Truth is since October 2018 I’ve been struggling with my health: specifically my lower spine.  Back in February 2008, I sustained a gym injury that herniated two discs.  Since then I went through years of physical therapy and medical procedures to minimize the pain and maximize movement.  I learned to lived with it even if it meant the occasional week of staying off my feet to soothe a flair up and relieve some pain.
 
 In May 2017 I started experiencing some pain and reduction to mobility.  I connected with a surgeon and things were not severe enough for surgery then.  I began working with a sports medicine doctor and physical therapist.  I regularly saw these two for about 18 months.  I saw improvements in my health I never experienced before and felt great!  The October 2018 came and I felt things start to take a turn.  It was then I decided to incorporate a psychologist into the mix to help cope with some of the negative emotions as a consequence of the pain.
