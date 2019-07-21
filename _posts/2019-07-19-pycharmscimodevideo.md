@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Studying scientific mode in PyCharm
-categories: [learning, whatever]
+title: Video Notes - Scientific Mode in PyCharm
+categories: learning
 ---
 
-For data science projects, the IDE I am most comfortable with is R Studio.  Since Python has become my primary language lately, I want to consolidate my data analysis into PyCharm.  PyCharm published a webinar titled, "Effective Data Science with PyCharm" [(YouTube Link)](https://youtu.be/46RjXawJQgg).  This post contains the notes I took while watching this webinar.
+For data science projects, the IDE I am most comfortable with is R Studio.  Since Python has become my primary language lately, I want to consolidate my data analysis into PyCharm.  PyCharm published a webinar titled, "Effective Data Science with PyCharm" [(YouTube link)](https://youtu.be/46RjXawJQgg).  This post contains the notes I took while watching this webinar.
 
 ---
 
