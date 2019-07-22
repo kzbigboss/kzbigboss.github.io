@@ -283,6 +283,30 @@ footer {
   text-align: center;
 }
 
+table{
+  // border:2px solid #000000;
+  border-collapse: collapse;
+  border-spacing: 50;
+
+}
+
+thead{
+  border-bottom: 2px solid #000000;
+  background: $lightGray;
+}
+
+th{
+  // border:2px solid #000000;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+td{
+  // border:1px solid #000000;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
