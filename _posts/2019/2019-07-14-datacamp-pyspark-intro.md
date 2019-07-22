@@ -11,11 +11,12 @@ DataCamp's Intro to PySpark [(paid link)](https://www.datacamp.com/courses/intro
 ---
 ## Study log
 
-| Date        |  Start Time  | End Time  |
-| :---------  | ----------: | --------: |
-| 2019-07-20  | 4:35 PM     | 5:05 PM   |
-| 2019-07-18  | 4:55 PM     | 5:05 PM   |
-| 2019-07-14  | 4:00 PM     | 4:45 PM   |
+| Date       | Start Time | End Time |
+|:-----------|-----------:|---------:|
+| 2019-07-22 |    1:45 PM |  2:35 PM |
+| 2019-07-20 |    4:35 PM |  5:05 PM |
+| 2019-07-18 |    4:55 PM |  5:05 PM |
+| 2019-07-14 |    4:00 PM |  4:45 PM |
 
 ---
 ## Chapter 1: Getting to know Spark
@@ -95,10 +96,30 @@ stadiums = spark.read.csv(file_path, header=True) # uses first row as headers
   * PySpark has a method named `.selectExpr()` that can take an SQL expression as a string
     * eg: `teams.selectExpr("wins/losses as win_loss_ratio")`
       * Above the "as" keyword is acting as the `.alias()` method.
+* Aggregations in PySpark are grouped into `GroupedData` methods and called via `.groupBy()` followed by an aggregation function.
+  - min example: `teams.filter(team.name == "Bears").groupBy().max("score").show()`
+  - There's an entire class for grouped data frames named `pyspark.sql.GroupedData` to help replicate SQL group by statements.
+    - You can pass column arguments into a `.groupBy()` method and Spark will behavior similar to SQL's `GROUP BY` clause.
+  - You can also leverage the `.agg()` method to invoke any of the `pyspark.sql.functions` on grouped data.
+    - This is helpful with calculations like standard deviations:
+      - `by_month_dest.agg(F.stddev("dep_delay")).show()`
+- Joins, the act of merging two data frames, is available via `.join()` and takes three arguments:
+  1. the other data frame you want to reference in the join.
+  2. name of the key column(s) as a string (aka `ON` in SQL).
+  3. the type of join you want to perform (aka `INNER JOIN` or `LEFT OUTER JOIN` in SQL).
+  - eg:
+    ``` python
+    flights_with_airports = flights.join(
+      airports
+      ,"dest"
+      ,"leftouter"
+      )
+    ```
+-
 
 ### Useful methods/functions
 ``` python
-Note: spark variable below refers to an instance SparkSession
+** Note: spark variable below refers to an instance SparkSession **
 
 # create a spark dataset from a known table in the catalog
 teams = spark.table("teams")
@@ -141,4 +162,13 @@ teams_expanded = teams.selectExpr(
   ,"losses"
   ,"wins / losses as win_loss_ratio"
   )
+
+# print to screen the results of multiple filters and an aggregation
+# eg: what's the largest score the Bears had for all recorded home games?
+teams.\
+  .filter(teams.team_name == "Bears") \
+  .filter(teams.location_tag == "home") \
+  .groupBy() \
+  .max("score") \
+  .show()
 ```
