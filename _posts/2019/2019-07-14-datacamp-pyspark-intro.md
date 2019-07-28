@@ -13,6 +13,7 @@ DataCamp's Intro to PySpark [(paid link)](https://www.datacamp.com/courses/intro
 
 | Date       | Start Time | End Time |
 |:-----------|-----------:|---------:|
+| 2019-07-28 |    8:40 AM |  9:30 AM |
 | 2019-07-22 |    1:45 PM |  2:35 PM |
 | 2019-07-20 |    4:35 PM |  5:05 PM |
 | 2019-07-18 |    4:55 PM |  5:05 PM |
@@ -115,7 +116,15 @@ stadiums = spark.read.csv(file_path, header=True) # uses first row as headers
       ,"leftouter"
       )
     ```
--
+## Chapter 3: Machine Learning
+- PySpark contains a machine learning module named `pyspark.ml`.
+  - Two important methods:
+    - `.transform()` of the `Transformer` class takes a dataframe and returns a dataframe with a new column appended.
+    - `.fit()` of the `Estimator` class takes a dataframe and returns a model object.
+- Data types need to be correctly stated for ML operations
+  - Spark will attempt to infer data types, but that isn't a guarantee.
+  - You can manually restate the data type of a dataframe's column by using `.cost()`.
+    - `.cast()` is applied directly against a column object.  The only argument the method takes is the type of data type you are casting the original data type as.
 
 ### Useful methods/functions
 ``` python
@@ -171,4 +180,17 @@ teams.\
   .groupBy() \
   .max("score") \
   .show()
+
+# rename a single column, helpful for avoiding ambiguity when joining dataframes
+teams.withColumnRenamed("previousName", "CurrentName")
+
+# join objects together
+merged_df = first_df.join(
+   second_df    # other df
+  ,"key"        # join key
+  ,"leftouter"  # join type
+   )
+
+# cast a column to a new data type
+dataframe = dataframe.withColumn("col", dataframe.col.cast("new_type"))
 ```
