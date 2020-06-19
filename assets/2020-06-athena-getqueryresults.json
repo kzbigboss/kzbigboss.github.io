@@ -1,0 +1,407 @@
+{
+  "UpdateCount": 0,
+  "ResultSet": {
+    "Rows": [
+      {
+        "Data": [
+          {
+            "VarCharValue": "capture_datetime_hour"
+          },
+          {
+            "VarCharValue": "AMZN_CNT"
+          },
+          {
+            "VarCharValue": "GOOG_CNT"
+          },
+          {
+            "VarCharValue": "WORK_CNT"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 16:00:00.000"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "55"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 15:00:00.000"
+          },
+          {
+            "VarCharValue": "55"
+          },
+          {
+            "VarCharValue": "53"
+          },
+          {
+            "VarCharValue": "53"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 14:00:00.000"
+          },
+          {
+            "VarCharValue": "58"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "52"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 13:00:00.000"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "55"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 12:00:00.000"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "52"
+          },
+          {
+            "VarCharValue": "56"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 11:00:00.000"
+          },
+          {
+            "VarCharValue": "51"
+          },
+          {
+            "VarCharValue": "58"
+          },
+          {
+            "VarCharValue": "53"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 10:00:00.000"
+          },
+          {
+            "VarCharValue": "52"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "50"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 09:00:00.000"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "56"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 08:00:00.000"
+          },
+          {
+            "VarCharValue": "55"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "53"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 07:00:00.000"
+          },
+          {
+            "VarCharValue": "51"
+          },
+          {
+            "VarCharValue": "58"
+          },
+          {
+            "VarCharValue": "58"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 06:00:00.000"
+          },
+          {
+            "VarCharValue": "53"
+          },
+          {
+            "VarCharValue": "58"
+          },
+          {
+            "VarCharValue": "58"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 05:00:00.000"
+          },
+          {
+            "VarCharValue": "52"
+          },
+          {
+            "VarCharValue": "58"
+          },
+          {
+            "VarCharValue": "58"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 04:00:00.000"
+          },
+          {
+            "VarCharValue": "51"
+          },
+          {
+            "VarCharValue": "52"
+          },
+          {
+            "VarCharValue": "53"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 03:00:00.000"
+          },
+          {
+            "VarCharValue": "57"
+          },
+          {
+            "VarCharValue": "55"
+          },
+          {
+            "VarCharValue": "56"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 02:00:00.000"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "55"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 01:00:00.000"
+          },
+          {
+            "VarCharValue": "55"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "52"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-18 00:00:00.000"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "57"
+          },
+          {
+            "VarCharValue": "57"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-17 23:00:00.000"
+          },
+          {
+            "VarCharValue": "57"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "57"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-17 22:00:00.000"
+          },
+          {
+            "VarCharValue": "54"
+          },
+          {
+            "VarCharValue": "56"
+          },
+          {
+            "VarCharValue": "55"
+          }
+        ]
+      },
+      {
+        "Data": [
+          {
+            "VarCharValue": "2020-06-17 21:00:00.000"
+          },
+          {
+            "VarCharValue": "27"
+          },
+          {
+            "VarCharValue": "24"
+          },
+          {
+            "VarCharValue": "24"
+          }
+        ]
+      }
+    ],
+    "ResultSetMetadata": {
+      "ColumnInfo": [
+        {
+          "CatalogName": "hive",
+          "SchemaName": "",
+          "TableName": "",
+          "Name": "capture_datetime_hour",
+          "Label": "capture_datetime_hour",
+          "Type": "timestamp",
+          "Precision": 3,
+          "Scale": 0,
+          "Nullable": "UNKNOWN",
+          "CaseSensitive": false
+        },
+        {
+          "CatalogName": "hive",
+          "SchemaName": "",
+          "TableName": "",
+          "Name": "AMZN_CNT",
+          "Label": "AMZN_CNT",
+          "Type": "bigint",
+          "Precision": 19,
+          "Scale": 0,
+          "Nullable": "UNKNOWN",
+          "CaseSensitive": false
+        },
+        {
+          "CatalogName": "hive",
+          "SchemaName": "",
+          "TableName": "",
+          "Name": "GOOG_CNT",
+          "Label": "GOOG_CNT",
+          "Type": "bigint",
+          "Precision": 19,
+          "Scale": 0,
+          "Nullable": "UNKNOWN",
+          "CaseSensitive": false
+        },
+        {
+          "CatalogName": "hive",
+          "SchemaName": "",
+          "TableName": "",
+          "Name": "WORK_CNT",
+          "Label": "WORK_CNT",
+          "Type": "bigint",
+          "Precision": 19,
+          "Scale": 0,
+          "Nullable": "UNKNOWN",
+          "CaseSensitive": false
+        }
+      ]
+    }
+  },
+  "ResponseMetadata": {
+    "RequestId": "ec14be0c-1c55-4642-94dd-481ca2b9f92e",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "content-type": "application/x-amz-json-1.1",
+      "date": "Fri, 19 Jun 2020 04:40:58 GMT",
+      "x-amzn-requestid": "ec14be0c-1c55-4642-94dd-481ca2b9f92e",
+      "content-length": "5208",
+      "connection": "keep-alive"
+    },
+    "RetryAttempts": 0
+  }
+}
