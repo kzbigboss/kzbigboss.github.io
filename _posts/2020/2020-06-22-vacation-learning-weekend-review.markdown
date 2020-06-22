@@ -2,10 +2,7 @@
 layout: "post"
 title: "Vacation Learning: Weekend Update"
 date: "2020-06-22 13:00"
-<<<<<<< HEAD
 categories: "2020-06-vacation-project"
-=======
->>>>>>> a63fbf22c05dea7dabb9d61afbba3a84fa675229
 ---
 
 I said I was not going to work on this project over the weekend.  That was a lie: I pushed a few commits into the [repo](https://github.com/kzbigboss/2020-06-vacation-learning/commits/master) through the weekend.  Last I wrote, I was a bit frustrated by the response structure provided by Athena's [`get_query_results()`](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/athena.html#Athena.Client.get_query_results) method.  This response is a row-based dictionary where each element lists the related columns' values.  It is probably the simplest way to share tabular results that do not have a primary key but it flies in the face against [column-oriented](https://en.wikipedia.org/wiki/Column-oriented_DBMS) data types that have become a modern standard.
