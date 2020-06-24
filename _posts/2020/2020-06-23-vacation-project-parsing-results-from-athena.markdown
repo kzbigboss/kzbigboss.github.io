@@ -12,7 +12,7 @@ Part of today was spent at Mount Rainier (Link: [Photos in iCloud](https://www.i
 ## Basics behind parsing Athena
 There is a pretty mixed bag out there as to the best way to work with query results from Athena.  Some people on Stack Overflow suggested parsing the metadata of the response to find and get the S3 object that contains the query results. Why?  Because the S3 object is already in CSV format making it super easy to work with.  I wanted to stick with working in the API, though, so I kept researching.
 
-The approach I leaned on was to use a list comprehension to execute a command for each element in the heavily nested query response.  It actually works surprisingly well.  The challenge I could not figure out was how to save the results into a data structure other than a list/array.  I prefer to package the results into dictionary keyed by stock symbol... so I wrote a method to parse the parsed results.  But hey, it works!
+The approach I leaned on was to use a list comprehension to execute a command for each element in the heavily nested query response.  It actually works surprisingly well.  The challenge I could not figure out was how to save the results into a data structure other than a list/array.  I prefer to package the results into dictionary keyed by stock symbol... so I wrote a method to parse the parsed results after loading it into a data frame.  But hey, it works!
 
 ## Next steps
 ### Reconsider impacts of data types for down stream consumers
