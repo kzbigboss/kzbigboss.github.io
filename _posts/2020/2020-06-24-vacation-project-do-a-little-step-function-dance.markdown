@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Vacation Project Do a little step function dance"
+title: "Vacation Project: Do a little step function dance"
 date: "2020-06-24 16:03"
 categories: "2020-06-vacation-project"
 ---
