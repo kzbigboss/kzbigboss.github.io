@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Vacation Learning: Final Update"
+title: "Vacation Project: Final Code Update"
 date: "2020-06-27 15:06"
 categories: "2020-06-vacation-project"
 youtubeId: tFZvq1zq7Q0
