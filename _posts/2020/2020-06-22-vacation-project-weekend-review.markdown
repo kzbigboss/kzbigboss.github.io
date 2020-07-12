@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Vacation Learning: Weekend Update"
+title: "Vacation Project: Weekend Update"
 date: "2020-06-22 13:00"
 categories: "2020-06-vacation-project"
 ---
