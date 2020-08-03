@@ -319,6 +319,45 @@ int max = a > b ? a : b;                    // print max of a and b
     #### Review Thoughts
     I was not thrilled with the idea of setting `max` to zero as any negative numbers would never be set to the max.  The highlighted solutions handles this gracefully by initializing `max`'s value as the first int obtained.  Unfortunately the learning platform accepted my answer as correct.  I would have preferred to see them fail my solution and hint that I need to think about negative numbers.
 
+## Theory: Defining Methods
+### Base syntax of methods
+1. [req] a set of modifiers (public, static, etc)
+2. a type of return value
+   - Don't need to return?  use `void`.
+3. [req] a name
+4. a list of parameters (aka formal parameters)
+5. a list of exceptions
+6. [req] a body containing statements to perform
+
+```
+structure:
+
+  [modifiers] [return type] [name]([parameters]) [exceptions]{
+    [body]
+  }
+
+example:
+
+  public int addNumbers(int a, int b) throws IOException {
+    return a + b;
+  }
+```
+
+
+### Signatures
+The combination of a method's name and its parameters is referred to as its signature.
+
+### Names
+* Java compiler rules
+  - case-sensitive
+  - can include unicode letters+digits plus two special characters (`$` and `_`)
+  - can't start with a digit
+  - must not be a keyword
+* Naming convention rules
+  - Not enforced by Java but strongly recommended for readability.
+  - Names should in lower case or camel case
+  - Start with a verb and followed by non-verbs
+
 ## Thoughts on learning experience
 - "Solve in IDE" doesn't explain how a solution can be improved
   - Turns out that the answer key is also checking white space between methods and parameters.  It will mark solution as "correct but could be improved" if you mash things together.  For example:
