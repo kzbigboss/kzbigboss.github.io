@@ -20,6 +20,14 @@ date: "2020-07-25 12:00"
     - [Functional Working Solution](#functional-working-solution)
     - [Highlighted Solution](#highlighted-solution)
     - [Review Thoughts](#review-thoughts)
+  - [Ternary Operator](#ternary-operator)
+  - [Measurements of Data](#measurements-of-data)
+  - [Sizes and ranges](#sizes-and-ranges)
+- [Theory: Defining Methods](#theory-defining-methods)
+  - [Base syntax of methods](#base-syntax-of-methods)
+  - [Signatures](#signatures)
+  - [Names](#names)
+- [Relationships between JVM, JRE, JDK](#relationships-between-jvm-jre-jdk)
 - [Thoughts on learning experience](#thoughts-on-learning-experience)
 
 <!-- /TOC -->
@@ -343,7 +351,6 @@ example:
   }
 ```
 
-
 ### Signatures
 The combination of a method's name and its parameters is referred to as its signature.
 
@@ -357,6 +364,22 @@ The combination of a method's name and its parameters is referred to as its sign
   - Not enforced by Java but strongly recommended for readability.
   - Names should in lower case or camel case
   - Start with a verb and followed by non-verbs
+
+## Relationships between JVM, JRE, JDK
+- JVM: Java Virtual Machine
+  - JVM is a virtual simulation of a physical computer.  Enables developer to work abstractly as source code is compiled into Java bytecode.  JVMs, which run bytecode, runs on a variety of different platforms which results in Java being 'almost' platform-independent.
+- JRE: Java Runtime Environment
+  - JRE is the execution environment for running compiled JVM programs.  Includes:
+    - JVM
+    - JCL: Java Class Library
+      - Think of this as the standard libraries (System, Math, etc.) Java developers use.
+  - When compiled program is executed, it uses bytecode class files from both the code you write and the JCL.
+- JDK: Java Development Kit
+  - Package to develop in Java.  Includes JRE and tools for developers (Java compiler, debugger, archiver, etc.).
+  - Translates `*.java` into `*.class`.  Several `*.class` files can be packaged into a Java Archive (JAR-file).
+  - Other JVM languages (Kotlin, Scala) have their own separate compilers.
+- Relationships between Java components
+  - ![relationship-jvm-jre-jdk](images/2020/08/relationship-jvm-jre-jdk.png)
 
 ## Thoughts on learning experience
 - "Solve in IDE" doesn't explain how a solution can be improved
