@@ -1,7 +1,7 @@
 site: Mark Kazzaz's Personal Blog
 
 url: https://kzbigboss.github.io/
-baseurl: blogdevelopment
+baseurl: /blogdevelopment
 
 collections:
   pages:
