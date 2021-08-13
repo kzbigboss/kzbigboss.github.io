@@ -8,12 +8,12 @@ featured_image: /images/backgrounds/Donuts 05.jpg
 ## Who are you?
 
 <div class="gallery" data-columns="3">
-    <img src="/images/elements/markwithdonuts/markwithbluedonut.jpg">
-    <img src="/images/elements/markwithdonuts/5653FD1A-B3CF-47E7-9745-E93289785EFC.jpg">
-    <img src="/images/elements/markwithdonuts/IMG_6306.jpeg">
-    <img src="/images/elements/markwithdonuts/IMG_6555.jpeg">
-    <img src="/images/elements/markwithdonuts/IMG_6916.jpeg">
-    <img src="/images/elements/markwithdonuts/IMG_6941.JPG">
+    <img src="{{site.baseurl}}/images/elements/markwithdonuts/markwithbluedonut.jpg">
+    <img src="{{site.baseurl}}/images/elements/markwithdonuts/5653FD1A-B3CF-47E7-9745-E93289785EFC.jpg">
+    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6306.jpeg">
+    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6555.jpeg">
+    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6916.jpeg">
+    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6941.JPG">
 </div>
 
 I am Mark Kazzaz.  I graduated college with a masters in accounting.  I became a Certified Public Accountant and then drove my career towards the intersection of Business and Technology.
