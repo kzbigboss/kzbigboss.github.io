@@ -1,24 +1,29 @@
 ---
-title: About the Author
-subtitle: Mark Kazzaz
-description: CPA Turned Data Guru
+title: About Mark Kazzaz
+subtitle: CPA Turned Data Guru
+description: A little bit about the author of this blog
 featured_image: /images/backgrounds/Donuts 05.jpg
 ---
 
 ## Who are you?
 
 <div class="gallery" data-columns="3">
-    <img src="{{site.baseurl}}/images/elements/markwithdonuts/markwithbluedonut.jpg">
-    <img src="{{site.baseurl}}/images/elements/markwithdonuts/5653FD1A-B3CF-47E7-9745-E93289785EFC.jpg">
-    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6306.jpeg">
-    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6555.jpeg">
-    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6916.jpeg">
-    <img src="{{site.baseurl}}/images/elements/markwithdonuts/IMG_6941.JPG">
+
+  <img src="{{site.baseurl}}/images/markwithdonuts/IMG_0217.JPG">
+  <img src="{{site.baseurl}}/images/markwithdonuts/IMG_4571.jpeg">
+  <img src="{{site.baseurl}}/images/markwithdonuts/IMG_6306.jpeg">
+  <img src="{{site.baseurl}}/images/markwithdonuts/5653FD1A-B3CF-47E7-9745-E93289785EFC.jpg">
+  <img src="{{site.baseurl}}/images/markwithdonuts/IMG_6555.jpeg">
+  <img src="{{site.baseurl}}/images/markwithdonuts/6CE21E41-9623-4F38-9FF4-E9672FD8A611.jpg">
+  <img src="{{site.baseurl}}/images/markwithdonuts/IMG_6916.jpeg">
+  <img src="{{site.baseurl}}/images/markwithdonuts/IMG_6941.JPG">
+  <img src="{{site.baseurl}}/images/markwithdonuts/IMG_6978.jpeg">
+
 </div>
 
 I am Mark Kazzaz.  I graduated college with a masters in accounting.  I became a Certified Public Accountant and then drove my career towards the intersection of Business and Technology.
 
-After years of finance, accounting, and business intelligence work, I took a leap and joined big tech in 2014.  Since then my achievements revolve around deploying data infrastructure, building data products, and driving data strategies.  On the personal side, my hobbies include taking road trips and trying new donuts.
+After years of finance, accounting, and business intelligence work, I took a leap and joined big tech in 2014.  Since then my achievements revolve around deploying data infrastructure, building data products, and driving data strategies.  Some personal hobbies include reading science fiction, taking road trips, and trying new donuts.
 
 I live in downtown Seattle after spending time in Chicago and Atlanta.
 
