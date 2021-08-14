@@ -3,7 +3,7 @@ layout: "post"
 title: "Vacation Project: Final Code Update"
 date: "2020-06-27 15:06"
 categories: "2020-06-vacation-project"
-featured_image: /images/2020/06/vacation-learning-videostill.png
+featured_image: /images/2020/06/vacation-learning-still.jpg
 ---
 
 Final vacation project update!  Decided to post it as a video instead of a blog post.  Now I'm going to let it run for a week and then measure how well my process did at repairing a data stream.
