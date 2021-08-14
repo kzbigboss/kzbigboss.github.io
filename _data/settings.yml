@@ -14,6 +14,8 @@ menu_settings:
       url: '/'
     - title: 'Donut Tour 2021 Posts'
       url: '/donuttour2021'
+    - title: 'Vacation Project 2020 Posts'
+      url: '/vacationproject2020'
     # - title: 'Projects'
     #   url: '/projects/'
     - title: 'About'
