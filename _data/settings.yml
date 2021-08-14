@@ -10,8 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Latest Posts'
       url: '/'
+    - title: 'Donut Tour 2021 Posts'
+      url: '/donuttour2021'
     # - title: 'Projects'
     #   url: '/projects/'
     - title: 'About'
