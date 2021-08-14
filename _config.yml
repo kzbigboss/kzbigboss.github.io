@@ -1,7 +1,7 @@
 site: Mark Kazzaz's Personal Blog
 
 url: https://kzbigboss.github.io/
-baseurl: /blogdevelopment
+baseurl:
 
 collections:
   pages:
@@ -35,7 +35,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      featured_image: /images/elements/header.jpeg
+      #featured_image: /images/elements/header.jpeg
   -
     scope:
       path: ""

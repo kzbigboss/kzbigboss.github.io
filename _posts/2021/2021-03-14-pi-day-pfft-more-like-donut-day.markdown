@@ -3,7 +3,7 @@ layout: "post"
 title: "Pi day? Pfft, more like donut day!"
 date: "2021-03-14 12:00"
 categories: donut-tour-2021
-featured_image: images/2021/03/2021-03-hnh-front.png
+featured_image: images/2021/03/hnhcollage.jpg
 ---
 
 Today’s stop on my 2021 donut tour is Half and Half (HnH) Doughnut Company in the heart of Seattle’s Capitol Hill neighborhood.  Only one word properly describes their work: artisan.  Donuts here are made with love - the kind of love that results in two donuts never looking the same.  Here you choose from a collection of old fashioned, filled raised, and cronut style donuts.  HnH produces the most uniquely flavored old fashioned donuts I have had.  Tasting them is always a great experience… even if it costs me some embarrassment stuck at the case debating what to get.
