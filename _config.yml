@@ -35,7 +35,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      featured_image: /images/elements/header.jpeg
+      #featured_image: /images/elements/header.jpeg
   -
     scope:
       path: ""
