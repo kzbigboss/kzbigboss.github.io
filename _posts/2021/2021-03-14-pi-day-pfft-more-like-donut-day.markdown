@@ -2,7 +2,7 @@
 layout: "post"
 title: "Pi day? Pfft, more like donut day!"
 date: "2021-03-14 12:00"
-categories: donut-tour-2021
+category: donut-tour-2021
 featured_image: images/2021/03/hnhcollage.jpg
 ---
 

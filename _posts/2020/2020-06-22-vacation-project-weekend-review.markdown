@@ -2,7 +2,7 @@
 layout: "post"
 title: "Vacation Project: Weekend Update"
 date: "2020-06-22 13:00"
-categories: "2020-06-vacation-project"
+category: vacation-project-2020-06
 featured_image: /images/2020/06/vacationlearning-stepfunctionplan.png
 ---
 

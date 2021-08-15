@@ -2,7 +2,7 @@
 layout: "post"
 title: "Vacation Project: Parsing results from Athena"
 date: "2020-06-23 17:57"
-categories: "2020-06-vacation-project"
+category: vacation-project-2020-06
 featured_image: images/2020/06/vacationlearning-parsingathenaqueryresults.png
 ---
 

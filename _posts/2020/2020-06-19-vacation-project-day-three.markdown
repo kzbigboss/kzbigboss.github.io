@@ -2,7 +2,7 @@
 layout: "post"
 title: "Vacation Project: Day Three"
 date: "2020-06-19 10:16"
-categories: "2020-06-vacation-project"
+category: vacation-project-2020-06
 ---
 
 You see this image below?  It scares me.  This is how a query looks when you ask Athena to grab query results for you.  It mimics the rows and columns in terms of how a person would think of a query result.  The raw JSON file is available at the end of this post.  Let's take a step back and talk about how I got here.

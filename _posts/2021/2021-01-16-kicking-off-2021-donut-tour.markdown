@@ -2,7 +2,7 @@
 layout: "post"
 title: "Kicking off the 2021 Donut Tour!"
 date: "2021-01-16 12:00"
-categories: donut-tour-2021
+category: donut-tour-2021
 featured_image: images/2021/01/gp donuts/collage-gp.png
 ---
 

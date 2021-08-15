@@ -2,7 +2,7 @@
 layout: post
 title: "Vacation Project: Day One Learning"
 date: '2020-06-17 10:20'
-categories: "2020-06-vacation-project"
+category: vacation-project-2020-06
 ---
 
 The basic infrastructure is complete: code grabs stock data from Finnhub and pushes the result into a data stream where it eventually gets stored in a data lake.  The API secret token is stored in [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) and never exposed.  Everything is deployed via CloudFormation; you can start looking at my code on [Github](https://github.com/kzbigboss/2020-06-vacation-learning).

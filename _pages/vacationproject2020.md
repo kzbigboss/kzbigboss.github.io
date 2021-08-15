@@ -5,7 +5,7 @@ subtitle: During a two week vacation, I set out to try crafting a self-healing d
 featured_image: /images/2020/06/vacationlearning-stepfunctionplan.png
 ---
 
-{% for post in site.categories.2020-06-vacation-project %}
+{% for post in site.categories.vacation-project-2020-06 %}
 <article class="blog-post">
 
   <div class="blog-post__header">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why so quiet? A health update.
-categories: living
+category: living
 ---
 
 I have not been active on social media or GitHub the past few months.  I have a pretty good reason for that: I have been battling a severe flair up of my spine injury.
