@@ -166,6 +166,8 @@ ul, ol {
 
 blockquote {
 	margin-top: 15px;
+	border-left: 5px solid;
+	padding-left: 15px;
 	font-family: $title-font;
 	font-size: $blockquote-small;
 	font-weight: $blockquote-weight;
@@ -427,7 +429,7 @@ section {
 	}
 
 	@include mq(laptop) {
-		
+
 	}
 }
 
