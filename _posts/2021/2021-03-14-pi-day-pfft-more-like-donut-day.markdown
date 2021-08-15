@@ -21,3 +21,10 @@ I grabbed an outdoor table with my donut buddy and cut up the old fashioned donu
 The only hiccup today was the weather.  Seattle’s usual mist was replaced with legit rain drops that made today’s experience a little more wet and cold than I would have liked.
 
 ![2021-03-hnh-rain](../../images/2021/03/2021-03-hnh-rain.png)
+
+### Location
+<div class="map-responsive">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.6127885746205!2d-122.32699288441057!3d47.61421839544507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906b77aa6d979b%3A0xf61c384a999ef6d2!2sHalf%20and%20Half%20Doughnut%20Co.!5e0!3m2!1sen!2sus!4v1628996652033!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+</div>
