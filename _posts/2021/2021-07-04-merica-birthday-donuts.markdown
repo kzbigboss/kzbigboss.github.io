@@ -2,7 +2,7 @@
 layout: "post"
 title: "'Merica Birthday Donuts"
 date: "2021-07-04 12:00"
-category: donut-tour-2021
+category: donuts
 featured_image: images/2021/07/IMG_6605.jpeg
 ---
 

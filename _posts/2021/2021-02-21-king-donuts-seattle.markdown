@@ -2,7 +2,7 @@
 layout: "post"
 title: "King Donuts Seattle, Let's Go!"
 date: "2021-02-21 12:00"
-category: donut-tour-2021
+category: donuts
 featured_image: images/2021/02/king/header.jpeg
 ---
 

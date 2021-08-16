@@ -2,7 +2,7 @@
 layout: "post"
 title: "Donut Tour for Chicago guests"
 date: "2021-06-13 12:00"
-category: donut-tour-2021
+category: donuts
 featured_image: images/2021/06/IMG_6435.jpeg
 ---
 

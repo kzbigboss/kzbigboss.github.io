@@ -2,7 +2,7 @@
 layout: "post"
 title: "Vacation Project: Final Code Update"
 date: "2020-06-27 15:06"
-category: vacation-project-2020-06
+category: data
 featured_image: /images/2020/06/vacation-learning-still.jpg
 ---
 

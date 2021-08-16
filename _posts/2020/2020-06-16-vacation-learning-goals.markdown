@@ -2,7 +2,7 @@
 layout: "post"
 title: "Vacation Project: Self-Healing Data Stream"
 date: "2020-06-16 12:42"
-category: vacation-project-2020-06
+category: data
 ---
 Yesterday I started a two-week vacation from Amazon Web Services.  While I am excited to take a break, I want to use some of this time to play with AWS technologies I have not yet used.  I wanted to go beyond tutorials so I came up with a small project: a self-healing data stream.  I will create routine data streams that are processed continuously to create downstream facts and aggregations. The challenge is that the data capture mechanism has an intentional flaw may result in incomplete data sets being used by downstream clients.  This requires building an "auditor" to step in, analyze the data sets, and take corrective actions if data quality is impaired.
 

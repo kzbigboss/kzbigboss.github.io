@@ -2,7 +2,7 @@
 layout: "post"
 title: "Catching up over donuts"
 date: "2021-05-13 12:00"
-category: donut-tour-2021
+category: donuts
 featured_image: images/2021/05/IMG_6210.jpeg
 ---
 

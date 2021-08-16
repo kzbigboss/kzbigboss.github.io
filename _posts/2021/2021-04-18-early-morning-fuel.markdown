@@ -2,7 +2,7 @@
 layout: "post"
 title: "Early morning fuel"
 date: "2021-04-18 12:00"
-category: donut-tour-2021
+category: donuts
 featured_image: images/2021/04/IMG_5801.jpeg
 ---
 

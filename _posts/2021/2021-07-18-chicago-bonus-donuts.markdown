@@ -2,7 +2,7 @@
 layout: "post"
 title: "Midwest bonus donuts"
 date: "2021-07-18 12:00"
-category: donut-tour-2021
+category: donuts
 featured_image: images/2021/07/IMG_6813.jpeg
 ---
 

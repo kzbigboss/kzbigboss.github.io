@@ -2,7 +2,7 @@
 layout: "post"
 title: "Vacation Project: Day Two"
 date: "2020-06-18 11:00"
-category: vacation-project-2020-06
+category: data
 ---
 
 At this point, all of the infrastructure work is complete and I am pulling stock data every minute for 11 stocks.  The biggest additions from yesterday include using a time-triggered Lambda to queue up stock data requests for another Lambda to go get.  The results get moved into a data stream then stored in a data lake.  Now I have a data catalog available that enables us to query [Amazon Athena](https://aws.amazon.com/athena) (serverless query service) to do some basic analytics on the data.  The latest hand-drawn monstrosity of an architecture diagram looks like this:

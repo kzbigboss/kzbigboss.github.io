@@ -2,7 +2,7 @@
 layout: "post"
 title: "Vacation Project: Do a little step function dance"
 date: "2020-06-24 16:03"
-category: vacation-project-2020-06
+category: data
 featured_image: /images/2020/06/vacationlearning-firststepfunction.png
 ---
 
