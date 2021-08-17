@@ -3,6 +3,7 @@ layout: "post"
 title: "New blog, who dis?"
 date: "2021-08-16 10:28"
 featured_image: /images/elements/default_blog.jpeg
+category: data
 ---
 
 Ok so "new blog" is a stretch.  This is the same blog that's hosted via [Github Pages](https://pages.github.com/) but with a new backend and purpose.  Check out this post to learn about recent updates to my blog and the new stuff I will be posting here.
