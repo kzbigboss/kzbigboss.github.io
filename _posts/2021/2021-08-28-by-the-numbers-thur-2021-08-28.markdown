@@ -1,0 +1,36 @@
+---
+layout: "post"
+title: "By The Numbers: Thur 2021-08-28"
+date: "2021-08-28 12:00"
+category: data
+featured_image: /images/2021/08/roccoscookiebutter.jpeg
+---
+
+Departed Chicago and arrived near Boston.  To date that is 3.8k miles driven with 49.7k records captured.  And yes, there were donuts.
+
+![By The Numbers: Thru 2021-08-28](/images/2021/08/2021-08-28 by the numbers.png)
+
+## Infrastructure
+### Data
+Step Function + Lambda seem to be holding up great with a 99.8% capture rate.  Resultant dataset is still single digit MBs so querying via Athena and Tableau have been a breeze.  I am not sure there is a whole lot I am going to tweak here.  It would have been nice if I was capturing the Unix timestamp since the beginning.  That is the only attribute I wish I had to avoid some of the splitting/casting on strings I am performing to figure out timestamps.  I thought about repartitioning the data just for the sake of learning something.
+
+### Blog
+Blog still needs some more love.  Realized too late that the "post category" pages you see linked in the header do not paginate with GitHub's default Jekyll workflows.  Unfortunately GitHub do not make [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2) available as a dependency or else I would have just swapped paginate plug-ins.  One alternative is for me to keep two repositories: one that tracks source code and another that tracks the resultant build artifacts.  Another is just to accelerate my move to [Hugo](https://gohugo.io/) and stop investing time in Jekyll.
+
+## Donuts
+### Description
+Was able to experience [Rocco's Doughnut Company](https://roccosdonuts.square.site/) while stopping in Worcester, MA.  Definitely a hard lean towards the fun + experimental side of donuts without going in to excess.  Their donuts are also huge so should you ever find yourself trying them, share them unless you are also interested in diabetes.  Majority of donuts here are raised but you will find cake donuts underneath some of their creations (e.g.: Cosmic Brownie's base is a chocolate cake donut).
+
+### Photos
+<div class="gallery" data-columns="3">
+	<img src="/images/2021/08/roccosdonuts.jpeg">
+	<img src="/images/2021/08/roccoslist.jpeg">
+  <img src="/images/2021/08/roccoscookiebutter.jpeg">
+</div>
+
+### Location
+<div class="map-responsive">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47257.269366682696!2d-71.71787273428431!3d42.244799263323046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e40b1bf6d13aab%3A0x63ddc1f5d1e07819!2sRoccos%20Doughnut%20Company!5e0!3m2!1sen!2sus!4v1630337545341!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+</div>
