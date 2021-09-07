@@ -1,0 +1,39 @@
+---
+layout: "post"
+title: "By The Numbers: Thur 2021-09-06"
+date: "2021-09-07 12:00"
+category: donuts
+featured_image: /images/2021/09/IMG_7840.png
+---
+
+Now hanging out in Central Texas after recording just over 6k miles.  I was hit with a donut in Memphis and I loved it.  Good times.
+
+## The numbers
+Data pipelines continues to capture responses from my car.  So far there's just under 83k records for me to analyze/visualize.  This most recent leg of the trip was traveling about 850 miles from Atlanta, GA to West, TX.  Here is a glance at the latest GPS trail so far:
+
+![By The Numbers: Thru 2021-09-06](/images/2021/09/2021-09-06 by the numbers.png)
+
+## Donuts
+### Description (Hit and Run)
+On this leg I drove through Memphis as I wanted to visit a donut shop recommended by a friend.  I did not realize what I was in store for.  The place was [Gibson Donuts](https://goo.gl/maps/U27KZsN8ec5xRkUU7) over in Memphis, TN.  I got there around 8a and was surprised to see a line out the door.  Turns out this place has been slinging donuts for 50+ years and has earned a reputation for high quality treats.
+
+When I finally got inside, I had to order well before I could see the donut case.  I was a little disappointed about that but I decided to put my fate in the hands of the girl who took my order.  Before I could ask for her help, I told her this visit was my first time there... and before I could say anything more she got super excited and ran in to the kitchen.  When she came back she screamed, "fast hands!" and threw a fresh and hot glazed donut at me.  I had no idea what was happening and I caught the donut after it bounced off my chest.  I asked her what just happened and she explained they have a tradition of throwing donuts at new customers as part of the fun of the visit.  It was great!
+
+I asked for her help: pick the six best donuts they make to assemble a half dozen for me to take on the road.  She went around asking the other workers there their thoughts and I ended up with: blueberry cake, pound cake, maple bacon raised, red velvet cake, chocolate frosted raised, and glazed raised.  I decided to wait and enjoy them with friends once I reached West, TX.  When we finally cut in to them, I thought all the donuts were great but was really blown away by the pound cake donut.  Would happily check out Gibson Donuts again!
+
+### Photos
+<div class="gallery" data-columns="3">
+	<img src="/images/2021/09/IMG_7820.png">
+  <img src="/images/2021/09/IMG_7824.png">
+	<img src="/images/2021/09/IMG_7821.png">
+  <img src="/images/2021/09/IMG_7822.png">
+  <img src="/images/2021/09/IMG_7823.png">
+  <img src="/images/2021/09/IMG_7840.png">
+</div>
+
+### Location
+<div class="map-responsive">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104425.53023597243!2d-90.02503248550848!3d35.12424078365778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x887f84667915c02d%3A0x1896a12e39d4524c!2sGibson&#39;s%20Donuts!5e0!3m2!1sen!2sus!4v1631036853146!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+</div>
