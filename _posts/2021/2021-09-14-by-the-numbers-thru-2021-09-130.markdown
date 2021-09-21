@@ -1,0 +1,41 @@
+---
+layout: "post"
+title: "By The Numbers Thru 2021-09-21"
+date: "2021-09-21 8:00"
+category: drives
+featured_image: /images/2021/09/IMG_8081.png
+---
+
+Running out of miles (and donuts) between road trip and home!  Currently hanging out in an awesome coffee bar in Salem, Oregon.  As fate would have it, a close friend is out here for work.  I timed my road trip so we could check out Salem together.
+
+## The numbers
+- Miles: 10,255
+- Latest leg: 637 miles on 2021-09-20
+- Bugs hit: ∞
+- Data records: 146,398
+- Data size: 13.04 MB
+
+Updated map and measures:
+
+![By The Numbers: Thru 2021-09-21](/images/2021/09/2021-09-21 by the numbers.png)
+
+## Donuts
+### Description
+Had to take a break on donuts the last few stops.  I wish I could tell you it was because I wanted to be healthy.  Truth is my stomach was wrecked after days of hotel food and donuts.  BUT NOW I'M BACK IT, BABY - WOOO.
+
+Today's donut tour was early this morning in downtown Salem.  The place was [Bearscat Bakehouse](https://goo.gl/maps/Hajo6yxPhkUH3han9).  What's a "bearscat" you ask?  No idea.  Apparently it is a "cowboy" term for donut.  I have not heard this term before and have been donut hunting in Texas... but I digress.  We grabbed coffee nearby at [The Governor's Cup Coffee Roasters](https://g.page/thegovcup?share); the staff was fun and the coffee was solid.
+
+What makes Bearscat Bakehouse distinct is that they have fun with one of their old fashioned donuts.  Rather than prepare it in a ring shape, they make their chocolate glazed available in a semi-boomerang shape.  Chocolate glazed old fashioned is my all time favorite style of donut so I was excited to try it.
+
+### Photos
+<div class="gallery" data-columns="3">
+	<img src="/images/2021/09/IMG_8086.png">
+  <img src="/images/2021/09/IMG_8087.png">
+</div>
+
+### Location
+<div class="map-responsive">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.2463498207267!2d-123.03963368524963!3d44.93865972913419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54bfffcbd6539959%3A0xef2e64a92c1dfbcd!2sBearscat%20Bakehouse%20-%20Salem!5e0!3m2!1sen!2sus!4v1632246426461!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+</div>
