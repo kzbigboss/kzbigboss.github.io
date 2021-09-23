@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "By The Numbers: Thur 2021-08-28"
+title: "By The Numbers: Thru 2021-08-28"
 date: "2021-08-28 12:00"
 category: data
 featured_image: /images/2021/08/roccoscookiebutter.jpeg
